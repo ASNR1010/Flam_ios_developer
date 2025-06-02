@@ -4,11 +4,12 @@ A modular and extensible music player application built using Swift, SwiftUI, Co
 
 ## Features
 
-- Play, pause, skip, and previous track controls
+- Unified interface for music sources (local, Spotify mock)
+- Play, pause, skip, previous controls
 - Playlist queue management
-- Real-time playback state updates
-- Support for multiple music sources
-- MVVM architecture with Combine for reactive programming
+- Real-time UI updates via Combine
+- MVVM design pattern for separation of concerns
+- Easily extensible for more sources (e.g., YouTube, SoundCloud)
 
 ```plaintext
 MusicPlayerService/
@@ -27,15 +28,6 @@ MusicPlayerService/
 ├── MusicPlayerService.xcodeproj/ # Xcode project file
 └── README.md # Project documentation (this file)
 ```
-
-## Features
-
-- Unified interface for music sources (local, Spotify mock)
-- Play, pause, skip, previous controls
-- Playlist queue management
-- Real-time UI updates via Combine
-- MVVM design pattern for separation of concerns
-- Easily extensible for more sources (e.g., YouTube, SoundCloud)
 
 ## Technologies Used
 
