@@ -81,9 +81,7 @@ SocialFeedApp/
    ```bash
    git clone https://github.com/your-username/SocialFeedApp.git
 
-2. Open the project in Xcode:
-
-open SocialFeedApp/SocialFeedApp.xcodeproj
+2. Open `SocialFeedApp/SocialFeedApp.xcodeproj` in Xcode.
 
 3. Build and run on iOS Simulator or a real device.
 
