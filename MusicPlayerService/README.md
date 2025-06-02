@@ -54,10 +54,6 @@ MusicPlayerService/
 
 
 ## Getting Started
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/MusicPlayerService.git
-   ```
+1. Clone the repository.
 2. Open `MusicPlayerService.xcodeproj` in Xcode.
 3. Build and run the project.
